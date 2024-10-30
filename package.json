@@ -1,0 +1,17 @@
+{
+  "name": "f24wa36goswami",
+  "version": "1.0.0",
+  "description": "A server generated from express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "Bhavesh Goswami",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.3"
+  },
+  "license": "MIT"
+}
